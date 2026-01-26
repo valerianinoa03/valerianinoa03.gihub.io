@@ -1,2 +1,2 @@
-# Valeria niño Albornoz
+# Valeria Niño Albornoz
 Proyectos Tripleten - Valeria Niño Albornoz
