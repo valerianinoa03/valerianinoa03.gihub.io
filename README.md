@@ -1,2 +1,2 @@
-# valerianinoa03.gihub.io
+# Valeria niño Albornoz
 Proyectos Tripleten - Valeria Niño Albornoz
