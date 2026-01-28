@@ -38,6 +38,8 @@ Conclusiones y Recomendaciones:
 
 - El departamento No. 16 (Sin nombre), tiene un comportamiento extremadamente irregular y alta variación . Dado que no tiene nombre, puede ser un departamento mal definido o una categoría para productos residuales. Se sugiere reorganizar el departamento, ya sea dandole un nombre correspondiente a sus productos o integrándolo a otro/s departamento/s
 
+Link: [Ver Proyecto](https://docs.google.com/spreadsheets/d/10mYf93PDdfszHY9myBj8fTfIAiVieMn6rVXztoEHvxU/edit?usp=edit)
+
 **Análisis de Desempeño Financiero | Tripleten – Data Analyst Bootcamp (2025-2026)**
 Contexto:
 - Se analizaron datos de 2017 de ventas, catálogo de productos, territorios y campañas para la empresa Adventure Works, con el fin de saber qué mercados generan más ingresos y cuál es la rentabilidad de cada uno teniendo en cuenta los gastos de marketing.
@@ -65,6 +67,8 @@ Conclusiones y Recomendaciones:
 - Los margenes de ganancia no tienen una variación muy alta - oscilan ente el 41 y 45%, mientras que el ROI es muy variable, con porcentajes entre 17 a 75%. Esto significa que el problema no está en la rentabilidad de cada producto sino en la eficiencia de la inversión en campañas de marketing.
 
 - Se recomienda optimizar los gastos de marketing en Francia y Canadá. Estos paises tienen un márgen alto pero un ROI bajo, lo que significa que ganan bien por venta pero gastan mucho en marketing. Se pueden probar estrategias de márketing de menor costo como programas de referidos, revisar canales de segmentación y hacer encuestas a clientes actuales.
+
+Link: [Ver Proyecto](https://docs.google.com/spreadsheets/d/1Rg-u6mktpbrfiJfg1akyJxSABdissCfN8OIeEz7hRDw/edit?usp=edit)
 
 **Movilidad Urbana y Productividad Económica | Tripleten – Data Analyst Bootcamp (2025-2026)**
 Contexto:
@@ -94,6 +98,8 @@ Conclusiones y Recomendaciones:
 - Se comparó una variable de movilidad (tiempo en atrasos por tráfico) y una variable económica (PIB per cápita). Se determinó que no hay una relación clara entre las dos variabes: Montevideo cuenta con el PIB per cápita más alto de la muestra pero no tiene un índice de retrasos en las vías muy alto, y Bogotá tiene una los índices de congestión más altos pero no tiene un PIB per cápita muy alto. Vemos que la congestión puede estar más relacionada con factores como el tamaño, densidad de población y organización del sistema de transporte que con el ingreso promedio de las personas.
 
 - Se recomienda pririzar la ciudad de Bogotá, ya que es la que en general muestra mayor correlación entre alta congestión y baja productividad económica. Lima también muestra esta correlación pero a menor nivel, así ue le podemos asignar una prioridad media. En Bogotá se propone seguir invirtiendo en la construcción del metro y en Lima mejorar la integración de sistemas existentes. En ambas se recomienda incentivar a la población al tele trabajo y/o a horarios escalonados.
+
+Link: [Ver Proyecto](https://tripleten.com/proxy/pierce/trainers/workspace/shares/e52d116f-dc6b-4842-b9d7-1b195aa86907%3A200153488%3Adata-analyst/archive)
 
 ## Contacto
 - Email: valerianinoa@gmail.com
