@@ -30,7 +30,7 @@ Metodología:
 - Gráfico presentado en el dashboard:
 
 <p align="center">
-  <img src="/Proyecto_1_1.png" alt="Proyecto 1" width="650">
+  <img src="/Proyecto1_1.png" alt="Proyecto 1" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
