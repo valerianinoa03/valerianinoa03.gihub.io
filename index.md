@@ -58,7 +58,7 @@ Metodología:
 - Código realizado para calcular KPIs:
 
 <p align="center">
-  <img src="/Proyecto_2.png" alt="Proyecto 2" width="650">
+  <img src="/Proyecto2.png" alt="Proyecto 2" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
@@ -91,7 +91,7 @@ Metodología:
 - Gráfico de barras para comparar variables:
   
 <p align="center">
-  <img src="/Proyecto_3.png" alt="Proyecto 3" width="650">
+  <img src="/Proyecto3.png" alt="Proyecto 3" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
