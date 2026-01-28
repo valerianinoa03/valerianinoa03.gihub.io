@@ -104,4 +104,4 @@ Link: [Ver Proyecto](https://tripleten.com/proxy/pierce/trainers/workspace/share
 ## Contacto
 - Email: valerianinoa@gmail.com
 - Teléfono: +57 3136925084
-- Linkedin: https://www.linkedin.com/in/valeria-nino/
+- Linkedin: (https://www.linkedin.com/in/valeria-nino/)
