@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+title: Valeria Niño Albornoz
+description: >
+  Bienvenido a mi portafolio de proyectos
+
+logo: 
+
+github:
+  is_user_page: true
+  is_project_page: false
