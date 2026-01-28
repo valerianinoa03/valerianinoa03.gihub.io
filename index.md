@@ -25,7 +25,11 @@ Herramienta: Excel
 Metodología:
 - Limpieza de datos: normalización y estandarización de variables
 - Cálculo de KPIs: uso de tablas dinámicas para crear y visualizar KPIs
-- Creación de Dashboards: hoja donde los diferentes stakeholders pueden filtrar los datos y visualizar tablas y gráficos. 
+- Creación de Dashboards: hoja donde los diferentes stakeholders pueden filtrar los datos y visualizar tablas y gráficos.
+
+- Gráfico presentado en el dashboard:
+
+/img/Proyecto1_1.png
 
 Conclusiones y Recomendaciones:
 - Las categorías con más ventas por metro cuadrado fueron "Despensa y Básicos" y "Comida Fresca", Se recomienda priorizar el inventario y presupuesto para estos departamentos. Además, se recomienda promocionar las categorías de baja proporción a través de descuentos y campañas para impulsar todavía más las ventas en estas categorías.
@@ -44,8 +48,12 @@ Herramienta: SQL
 
 Metodología:
 - Extraer y limpiar datos: unión de tablas, selección de columnas relevantes y tratamiento de valores nulos 
-Cálculo de KPIs: Se calculó el beneficio bruto, márgen de ventas y ROI sobre los datos.
-Valudación de resultados y análisis de calidad: se revisó consistencia en los datos, que no hubiera nulos ni duplicados, y se detectarn anomalías. 
+- Cálculo de KPIs: Se calculó el beneficio bruto, márgen de ventas y ROI sobre los datos.
+- Valudación de resultados y análisis de calidad: se revisó consistencia en los datos, que no hubiera nulos ni duplicados, y se detectarn anomalías.
+
+- Código realizado para calcular KPIs:
+
+/img/Proyecto2.png
 
 Conclusiones y Recomendaciones:
 - El país más rentable en el mercado es Estados Unidos, con un ROI de 75.75%, indicando que por cada dolar invertido en marketing, se obtuvo una ganancia de $0.76. El mercado con mayor margen de ganancia es Canadá, con 44.76%, indicando que por cada dolar vendido, se obtuvo una ganancia de $0.45. Esto pasa a pesar de que tiene el ROI más bajo de todos.
@@ -69,8 +77,12 @@ Herramientas:
 
 Metodología:
 - Explorar, limpiar y preparar los datos: Se inspeccionó la estructura, tipos de datos, columnas y valores faltantes. Se estandarizaron los nombres de las columnas y se corrigieron formatos.
-Cálculo de variables relevantes: se calcularon variables y se unieron las tablas con toda la información relevante.
-Visualizaciones: Se calculó un boxplot, histograma y un gráfico de barras para analizar visualmente los datos.
+- Cálculo de variables relevantes: se calcularon variables y se unieron las tablas con toda la información relevante.
+- Visualizaciones: Se calculó un boxplot, histograma y un gráfico de barras para analizar visualmente los datos.
+
+- Gráfico de barras para comparar variables:
+  
+![Gráfico](/img/Proyecto3.png)
 
 Conclusiones y Recomendaciones:
 - Se comparó una variable de movilidad (tiempo en atrasos por tráfico) y una variable económica (PIB per cápita). Se determinó que no hay una relación clara entre las dos variabes: Montevideo cuenta con el PIB per cápita más alto de la muestra pero no tiene un índice de retrasos en las vías muy alto, y Bogotá tiene una los índices de congestión más altos pero no tiene un PIB per cápita muy alto. Vemos que la congestión puede estar más relacionada con factores como el tamaño, densidad de población y organización del sistema de transporte que con el ingreso promedio de las personas.
