@@ -30,7 +30,7 @@ Metodología:
 - Gráfico presentado en el dashboard:
 
 <p align="center">
-  <img src="/Proyecto1_1.png" alt="Proyecto 1" width="650">
+  <img src="Proyecto1_1.png" alt="Proyecto 1" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
@@ -58,7 +58,7 @@ Metodología:
 - Código realizado para calcular KPIs:
 
 <p align="center">
-  <img src="/Proyecto2.png" alt="Proyecto 2" width="650">
+  <img src="Proyecto2.png" alt="Proyecto 2" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
@@ -91,7 +91,7 @@ Metodología:
 - Gráfico de barras para comparar variables:
   
 <p align="center">
-  <img src="/Proyecto3.png" alt="Proyecto 3" width="650">
+  <img src="Proyecto3.png" alt="Proyecto 3" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
