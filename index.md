@@ -29,7 +29,9 @@ Metodología:
 
 - Gráfico presentado en el dashboard:
 
-/img/Proyecto1_1.png
+<p align="center">
+  <img src="/Proyecto_1_1.png" alt="Proyecto 1" width="650">
+</p>
 
 Conclusiones y Recomendaciones:
 - Las categorías con más ventas por metro cuadrado fueron "Despensa y Básicos" y "Comida Fresca", Se recomienda priorizar el inventario y presupuesto para estos departamentos. Además, se recomienda promocionar las categorías de baja proporción a través de descuentos y campañas para impulsar todavía más las ventas en estas categorías.
@@ -53,7 +55,9 @@ Metodología:
 
 - Código realizado para calcular KPIs:
 
-/img/Proyecto2.png
+<p align="center">
+  <img src="/Proyecto_2.png" alt="Proyecto 1" width="650">
+</p>
 
 Conclusiones y Recomendaciones:
 - El país más rentable en el mercado es Estados Unidos, con un ROI de 75.75%, indicando que por cada dolar invertido en marketing, se obtuvo una ganancia de $0.76. El mercado con mayor margen de ganancia es Canadá, con 44.76%, indicando que por cada dolar vendido, se obtuvo una ganancia de $0.45. Esto pasa a pesar de que tiene el ROI más bajo de todos.
@@ -82,7 +86,9 @@ Metodología:
 
 - Gráfico de barras para comparar variables:
   
-![Gráfico](/img/Proyecto3.png)
+<p align="center">
+  <img src="/Proyecto_3.png" alt="Proyecto 1" width="650">
+</p>
 
 Conclusiones y Recomendaciones:
 - Se comparó una variable de movilidad (tiempo en atrasos por tráfico) y una variable económica (PIB per cápita). Se determinó que no hay una relación clara entre las dos variabes: Montevideo cuenta con el PIB per cápita más alto de la muestra pero no tiene un índice de retrasos en las vías muy alto, y Bogotá tiene una los índices de congestión más altos pero no tiene un PIB per cápita muy alto. Vemos que la congestión puede estar más relacionada con factores como el tamaño, densidad de población y organización del sistema de transporte que con el ingreso promedio de las personas.
